@@ -1,0 +1,79 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\tic tac toc\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\tic tac toc\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\tic tac toc\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\tic tac toc\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\tic tac toc\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\tic tac toc\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		INJECTED from E:\tic tac toc\app\src\main\AndroidManifest.xml
+		ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from E:\tic tac toc\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:4:29-54
+		INJECTED from E:\tic tac toc\app\src\main\AndroidManifest.xml
+		INJECTED from E:\tic tac toc\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\tic tac toc\app\src\main\AndroidManifest.xml
+		INJECTED from E:\tic tac toc\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:5:5-6:42
+INJECTED from E:\tic tac toc\app\src\main\AndroidManifest.xml:5:5-6:42
+INJECTED from E:\tic tac toc\app\src\main\AndroidManifest.xml:5:5-6:42
+INJECTED from E:\tic tac toc\app\src\main\AndroidManifest.xml:5:5-6:42
+INJECTED from E:\tic tac toc\app\src\main\AndroidManifest.xml:5:5-6:42
+	android:targetSdkVersion
+		INJECTED from E:\tic tac toc\app\src\main\AndroidManifest.xml
+		ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:5:5-6:42
+		INJECTED from E:\tic tac toc\app\src\main\AndroidManifest.xml
+	tools:ignore
+		ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:6:9-39
+	android:minSdkVersion
+		ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:5:15-40
+		INJECTED from E:\tic tac toc\app\src\main\AndroidManifest.xml
+		INJECTED from E:\tic tac toc\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:7:5-23:19
+	android:label
+		ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:7:18-50
+	android:debuggable
+		ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:9:9-34
+	tools:ignore
+		ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:10:9-42
+	android:icon
+		ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:8:9-39
+activity#sobhani.puya.app.tci.Activity_First
+ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:11:9-13:53
+	android:screenOrientation
+		ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:13:13-51
+	android:theme
+		ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:11:19-76
+	android:name
+		ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:12:13-63
+activity#sobhani.puya.app.tci.FirstActivity
+ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:screenOrientation
+		ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:16:13-51
+	android:exported
+		ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:17:13-36
+	android:theme
+		ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:14:19-76
+	android:name
+		ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:15:13-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:19:17-68
+	android:name
+		ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from E:\tic tac toc\app\src\main\AndroidManifest.xml:20:27-74

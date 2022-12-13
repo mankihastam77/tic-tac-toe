@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-merged_res-5:\\drawable-xhdpi-v4_circle.png.flat",
+        "source": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-main-7:\\drawable-xhdpi-v4\\circle.png"
+    },
+    {
+        "merged": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-merged_res-5:\\drawable_playero.png.flat",
+        "source": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-main-7:\\drawable\\playero.png"
+    },
+    {
+        "merged": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-merged_res-5:\\drawable_circle2.xml.flat",
+        "source": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-main-7:\\drawable\\circle2.xml"
+    },
+    {
+        "merged": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-merged_res-5:\\drawable-mdpi-v4_multiplay.png.flat",
+        "source": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-main-7:\\drawable-mdpi-v4\\multiplay.png"
+    },
+    {
+        "merged": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-merged_res-5:\\drawable_reset_game.jpg.flat",
+        "source": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-main-7:\\drawable\\reset_game.jpg"
+    },
+    {
+        "merged": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-merged_res-5:\\layout_main.xml.flat",
+        "source": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-main-7:\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-merged_res-5:\\drawable_icoon.webp.flat",
+        "source": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-main-7:\\drawable\\icoon.webp"
+    },
+    {
+        "merged": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-merged_res-5:\\drawable-xhdpi-v4_multiplay.png.flat",
+        "source": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-main-7:\\drawable-xhdpi-v4\\multiplay.png"
+    },
+    {
+        "merged": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-merged_res-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-debug-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-merged_res-5:\\drawable-hdpi-v4_circle.png.flat",
+        "source": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-main-7:\\drawable-hdpi-v4\\circle.png"
+    },
+    {
+        "merged": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-merged_res-5:\\layout_main1.xml.flat",
+        "source": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-main-7:\\layout\\main1.xml"
+    },
+    {
+        "merged": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-merged_res-5:\\drawable-hdpi-v4_multiplay.png.flat",
+        "source": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-main-7:\\drawable-hdpi-v4\\multiplay.png"
+    },
+    {
+        "merged": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-merged_res-5:\\drawable-ldpi-v4_circle.png.flat",
+        "source": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-main-7:\\drawable-ldpi-v4\\circle.png"
+    },
+    {
+        "merged": "sobhani.puya.app.tci.app-merged_res-5:/layout_main.xml.flat",
+        "source": "sobhani.puya.app.tci.app-main-7:/layout/main.xml"
+    },
+    {
+        "merged": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-merged_res-5:\\drawable-mdpi-v4_circle.png.flat",
+        "source": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-main-7:\\drawable-mdpi-v4\\circle.png"
+    },
+    {
+        "merged": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-merged_res-5:\\drawable-ldpi-v4_multiplay.png.flat",
+        "source": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-main-7:\\drawable-ldpi-v4\\multiplay.png"
+    },
+    {
+        "merged": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-merged_res-5:\\drawable_reset_player.png.flat",
+        "source": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-main-7:\\drawable\\reset_player.png"
+    },
+    {
+        "merged": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-merged_res-5:\\drawable_playerx.png.flat",
+        "source": "C:\\Users\\puya\\.gradle\\daemon\\7.4\\sobhani.puya.app.tci.app-main-7:\\drawable\\playerx.png"
+    }
+]

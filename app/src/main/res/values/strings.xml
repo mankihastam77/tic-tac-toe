@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, FirstActivity!</string>
+    <string name="app_name">tic tac toe</string>
+    <string name="todo">TODO</string>
+    <string name="imj6">TODO</string>
+    <string name="imj5">TODO</string>
+    <string name="imj3">TODO</string>
+    <string name="imj2">TODO</string>
+    <string name="imj1">TODO</string>
+    <string name="name_game">puya sobhani</string>
+    <string name="imj_reset">TODO</string>
+    <string name="one_player">player one :</string>
+    <string name="tow_player">player tow :</string>
+    <string name="player_tow">0</string>
+    <string name="player_one">0</string>
+    <string name="imj_reset_number">TODO</string>
+    <string name="imj9">TODO</string>
+    <string name="imj8">TODO</string>
+    <string name="imj7">TODO</string>
+    <string name="go_to_game">start game</string>
+</resources>

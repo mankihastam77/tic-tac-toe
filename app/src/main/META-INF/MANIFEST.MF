@@ -1,0 +1,84 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xhdpi/circle.png
+SHA1-Digest: jkRjjXqBLVAPo0KVBn04rrPpgKQ=
+
+Name: res/drawable-ldpi/refresh.png
+SHA1-Digest: wF33K0mB4lFQbUnBwUN1e2W1t0c=
+
+Name: res/drawable-xhdpi/refresh_number.png
+SHA1-Digest: LRyVh2f2VM4imURwlw108epW3rw=
+
+Name: res/drawable-xhdpi/multiplay.png
+SHA1-Digest: aes3zHlNYLjEQTxJ8pl+JnT1684=
+
+Name: res/drawable-hdpi/circle.png
+SHA1-Digest: jkRjjXqBLVAPo0KVBn04rrPpgKQ=
+
+Name: res/layout/main1.xml
+SHA1-Digest: ZDnS8bYR+d8nuh+QB+KOap09rvE=
+
+Name: resources.arsc
+SHA1-Digest: XKHtCyL5/MPbXklt+Y1dRebU9Pk=
+
+Name: res/drawable-hdpi/refresh_number.png
+SHA1-Digest: LRyVh2f2VM4imURwlw108epW3rw=
+
+Name: res/drawable-ldpi/refresh_number.png
+SHA1-Digest: LRyVh2f2VM4imURwlw108epW3rw=
+
+Name: AndroidManifest.xml
+SHA1-Digest: WiB4ZLlkqYnupOreKQR0nIiMm4g=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: 3o3FGfH4wD9yFLBLbtBAoNtskv0=
+
+Name: res/drawable-mdpi/refresh_number.png
+SHA1-Digest: LRyVh2f2VM4imURwlw108epW3rw=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: 3o3FGfH4wD9yFLBLbtBAoNtskv0=
+
+Name: res/drawable-mdpi/refresh.png
+SHA1-Digest: wF33K0mB4lFQbUnBwUN1e2W1t0c=
+
+Name: res/drawable-hdpi/multiplay.png
+SHA1-Digest: aes3zHlNYLjEQTxJ8pl+JnT1684=
+
+Name: res/drawable-mdpi/multiplay.png
+SHA1-Digest: aes3zHlNYLjEQTxJ8pl+JnT1684=
+
+Name: assets/kodak.ttf
+SHA1-Digest: A1KFieMZopdFjSTARBOaoTV24ZQ=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: 3o3FGfH4wD9yFLBLbtBAoNtskv0=
+
+Name: res/drawable-hdpi/refresh.png
+SHA1-Digest: wF33K0mB4lFQbUnBwUN1e2W1t0c=
+
+Name: res/drawable-ldpi/multiplay.png
+SHA1-Digest: aes3zHlNYLjEQTxJ8pl+JnT1684=
+
+Name: res/drawable-ldpi/circle.png
+SHA1-Digest: jkRjjXqBLVAPo0KVBn04rrPpgKQ=
+
+Name: classes.dex
+SHA1-Digest: pZA93pRRWlh2nXENttREafofmvQ=
+
+Name: res/drawable-mdpi/circle.png
+SHA1-Digest: jkRjjXqBLVAPo0KVBn04rrPpgKQ=
+
+Name: res/layout/main.xml
+SHA1-Digest: 4bVkzQft2825UwVqjJgN7oOqDo8=
+
+Name: res/drawable-xhdpi/refresh.png
+SHA1-Digest: wF33K0mB4lFQbUnBwUN1e2W1t0c=
+
+Name: res/drawable/circle2.xml
+SHA1-Digest: cXzBYeC6Hr2c/1yDQC25l02iXR0=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: 3o3FGfH4wD9yFLBLbtBAoNtskv0=
+
